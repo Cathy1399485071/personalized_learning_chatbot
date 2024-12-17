@@ -6,8 +6,7 @@ This repository contains a Flask-based application for building a personalized l
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
-   cd your-repository-name
+   git clone https://github.com/Cathy1399485071/personalized_learning_chatbot.git
 
 2. **Update Your OpenAI API Key**
    ```plaintext
